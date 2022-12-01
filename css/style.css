@@ -1,0 +1,27 @@
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 56px;
+    text-align: center;
+    background-color: aqua;
+    color: orange;
+}
+
+ul {
+    text-align: center;
+    font-size: 36px;
+    list-style: none;
+}
+
+#slut {
+    color: red;
+}
+
+#oreo {
+    color: blue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
